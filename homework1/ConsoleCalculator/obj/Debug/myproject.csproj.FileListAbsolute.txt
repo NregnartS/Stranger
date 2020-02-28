@@ -1,0 +1,6 @@
+C:\Users\75851\Desktop\网课\C#\myproject1\myproject\bin\Debug\myproject.exe.config
+C:\Users\75851\Desktop\网课\C#\myproject1\myproject\bin\Debug\myproject.exe
+C:\Users\75851\Desktop\网课\C#\myproject1\myproject\bin\Debug\myproject.pdb
+C:\Users\75851\Desktop\网课\C#\myproject1\myproject\obj\Debug\myproject.csprojAssemblyReference.cache
+C:\Users\75851\Desktop\网课\C#\myproject1\myproject\obj\Debug\myproject.exe
+C:\Users\75851\Desktop\网课\C#\myproject1\myproject\obj\Debug\myproject.pdb
