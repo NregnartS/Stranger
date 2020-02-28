@@ -1,0 +1,6 @@
+C:\Users\75851\Desktop\网课\C#\homewore2\Array\bin\Debug\Array.exe.config
+C:\Users\75851\Desktop\网课\C#\homewore2\Array\bin\Debug\Array.exe
+C:\Users\75851\Desktop\网课\C#\homewore2\Array\bin\Debug\Array.pdb
+C:\Users\75851\Desktop\网课\C#\homewore2\Array\obj\Debug\Array.exe
+C:\Users\75851\Desktop\网课\C#\homewore2\Array\obj\Debug\Array.pdb
+C:\Users\75851\Desktop\网课\C#\homewore2\Array\obj\Debug\Array.csprojAssemblyReference.cache

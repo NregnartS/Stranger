@@ -1,0 +1,5 @@
+C:\Users\75851\Desktop\网课\C#\homewore2\homewore2\bin\Debug\homewore2.exe.config
+C:\Users\75851\Desktop\网课\C#\homewore2\homewore2\bin\Debug\homewore2.exe
+C:\Users\75851\Desktop\网课\C#\homewore2\homewore2\bin\Debug\homewore2.pdb
+C:\Users\75851\Desktop\网课\C#\homewore2\homewore2\obj\Debug\homewore2.exe
+C:\Users\75851\Desktop\网课\C#\homewore2\homewore2\obj\Debug\homewore2.pdb
