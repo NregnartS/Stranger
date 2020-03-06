@@ -201,13 +201,15 @@ namespace homework3
                     break;
             }
         }
-        public static void Input(string s,ShapeFactory MyFactory,Random rnd)
+        public static void Input(string s,ShapeFactory MyFactory,Random rnd,out double SingleArea)
         {
+            SingleArea = new double();
             double[] Para=null;
             int r = rnd.Next(1, 5);
             GenerateRandomParameters(r,out Para,rnd);
             Shape Myshape = MyFactory.CreatShape(r,Para);
             Console.WriteLine($"随机生成了{Myshape.GetType()},参数为：{Myshape.GetPara()},其面积为{Myshape.GetArea()}");
+            SingleArea += Myshape.GetArea();
         }
         static void Main(string[] args)
         {
@@ -228,8 +230,13 @@ namespace homework3
                     Console.Clear();
                     continue;
                 }
-                for (int i=0;i<=Num;i++)
-                { Input(s, MyFactory,rnd);}
+                double Sum=0;
+                double SingleArea = 0;
+                for (int i=1;i<=Num;i++)
+                { Input(s, MyFactory,rnd,out SingleArea);
+                    Sum += SingleArea;
+                }
+                Console.WriteLine($"-----------面积和为{Sum}------------");
                 Console.WriteLine("-----------------按任意键继续------------------");
                 Console.ReadKey();
                 Console.Clear();
