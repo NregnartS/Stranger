@@ -1,0 +1,5 @@
+C:\Users\75851\Desktop\网课\C#\homework4\Clock\bin\Debug\Clock.exe.config
+C:\Users\75851\Desktop\网课\C#\homework4\Clock\bin\Debug\Clock.exe
+C:\Users\75851\Desktop\网课\C#\homework4\Clock\bin\Debug\Clock.pdb
+C:\Users\75851\Desktop\网课\C#\homework4\Clock\obj\Debug\Clock.exe
+C:\Users\75851\Desktop\网课\C#\homework4\Clock\obj\Debug\Clock.pdb

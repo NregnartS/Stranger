@@ -1,0 +1,6 @@
+C:\Users\75851\Desktop\网课\C#\homework4\homework4\bin\Debug\homework4.exe.config
+C:\Users\75851\Desktop\网课\C#\homework4\homework4\bin\Debug\homework4.exe
+C:\Users\75851\Desktop\网课\C#\homework4\homework4\bin\Debug\homework4.pdb
+C:\Users\75851\Desktop\网课\C#\homework4\homework4\obj\Debug\homework4.csprojAssemblyReference.cache
+C:\Users\75851\Desktop\网课\C#\homework4\homework4\obj\Debug\homework4.exe
+C:\Users\75851\Desktop\网课\C#\homework4\homework4\obj\Debug\homework4.pdb
