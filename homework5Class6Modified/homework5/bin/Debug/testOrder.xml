@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <ID>101</ID>
+    <OrderItem>
+      <Customer>
+        <CustomerName>Miss 冻</CustomerName>
+      </Customer>
+      <Goods>
+        <Number>1</Number>
+        <Type>保温杯</Type>
+        <UnitPrice>98.9</UnitPrice>
+      </Goods>
+      <AmountOfMoney>98.9</AmountOfMoney>
+    </OrderItem>
+  </Order>
+</ArrayOfOrder>
