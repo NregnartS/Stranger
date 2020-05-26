@@ -1,0 +1,3 @@
+作业：对订单程序进行改造，发布Web API，实现对订单等增删改查操作。（不要求写前端代码，能够使用postman测试通过即可）
+
+实现情况：基本按要求完成。增删改查等操作在Controller中全部完成。由于我的订单程序的order由id和orderitem构成，而orderitem分别由customer和goods构成，再下才是各个属性，因此post的json不是很好写。在测试时post的order的基本属性都是null或0、1.
